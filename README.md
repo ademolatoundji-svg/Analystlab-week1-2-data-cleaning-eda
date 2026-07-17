@@ -1,6 +1,6 @@
 # Week 1-2: Data Cleaning & Exploratory Data Analysis
 
-Internship project — AnalystLab Africa Data Analytics Internship Program
+Internship project - AnalystLab Africa Data Analytics Internship Program
 
 ## Overview
 
